@@ -1,0 +1,45 @@
+img {
+    width: 344px;
+    height: 155px;
+    display: inline;
+
+
+}
+
+.region {
+    font-size: 12px;
+}
+
+.card {
+
+    text-align: left;
+    width: 346px;
+    height: 450px;
+    border-radius: 10px;
+    margin-left: 70px;
+
+}
+
+.card-group {
+    float: left;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+body {
+    background-color: darkorange;
+}
+
+button {
+    background-color: darkorange;
+}
+
+.main {
+    display: block !important;
+    text-align: center;
+    background-color: saddlebrown;
+    height: 50px;
+    color: white;
+    padding-top: 5px;
+    font-size: 20px;
+}
